@@ -1,4 +1,4 @@
-# This is a head/tail breaks application with SAM model
+# This is a head/tail breaks application based-SAM
 This project is inspired from Prof. Bin Jiang(HKUSTGZ) 
 who is the author of Living Images: A Recursive Approach to Computing the Structural Beauty of Images or the Livingness of Space. If you are interested, PLZ refer [paper url](https://arxiv.org/abs/2301.01814) 
 ## Model pipeline
